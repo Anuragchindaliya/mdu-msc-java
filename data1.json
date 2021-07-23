@@ -1,0 +1,38 @@
+[
+  {
+    "sr": "",
+    "id": 1,
+    "name": "Applet",
+    "price": "<a class='btn btn-primary' href='./data/Applet.pdf' target='blank'>View</a> <a class='btn btn-success' href='./data/Applet.pdf' download>Download</a>"
+  },
+  {
+    "sr": "",
+    "id": 1,
+    "name": "Appley Life cycle",
+    "price": "<a class='btn btn-primary' href='./data/Applet.pdf' target='blank'>View</a> <a class='btn btn-success' href='./data/Applet.pdf' download>Download</a>"
+  },
+  {
+    "sr":"",
+    "id": 1,
+    "name": "Abstract Class",
+    "price": "<a class='btn btn-primary' href='./data/abstractClass.pdf' target='blank'>View</a> <a class='btn btn-success' href='./data/abstractClass.pdf' download>Download</a>"
+  },
+  {
+    "sr":"",
+    "id": 3,
+    "name": "Abstract Window Toolkit",
+    "price": "<a class='btn btn-primary' href='./data/AWT.pdf' target='blank'>View</a> <a class='btn btn-success' href='./data/AWT.pdf' download>Download</a>"
+  },
+  {
+    "sr":"",
+    "id": 4,
+    "name": "Item 4",
+    "price": "<a class='btn btn-primary' href='./data/Applet.pdf' target='blank'>View</a> <a class='btn btn-success' href='./data/Applet.pdf' download>Download</a>"
+  },
+  {
+    "sr":"",
+    "id": 5,
+    "name": "Item 5",
+    "price": "<a class='btn btn-primary' href='./data/Applet.pdf' target='blank'>View</a> <a class='btn btn-success' href='./data/Applet.pdf' download>Download</a>"
+  }
+]
